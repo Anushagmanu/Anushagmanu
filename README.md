@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm Anusha Gm
 
-<!--
-**Anushagmanu/Anushagmanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 👩‍💻 Name: **Anusha Gm**
+- 💼 Role: **DevOps Engineer**
+- 🏢 Organization: **LTIM**
+- ⏳ Experience: **4.5 Years in IT Industry**
+- 🌱 Passionate about Automation, Cloud, and CI/CD
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+
+### ☁️ Cloud
+- AWS
+- Azure
+- Google Cloud (GCP)
+
+### ⚙️ DevOps Tools
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- GitLab CI/CD
+- Ansible
+- Terraform
+
+### 🔄 Version Control
+- Git
+- GitHub
+- GitLab
+- Bitbucket
+
+### 🖥️ Scripting & Languages
+- Shell Script
+- Bash
+- Python (Basic)
+- YAML
+
+### 📦 Monitoring & Logging
+- Prometheus
+- Grafana
+- ELK Stack
+
+### 🛠️ Other Tools
+- Linux
+- Maven
+- Nexus
+- SonarQube
+- Jira
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
+
+---
+
+⭐ Always learning new DevOps tools and Cloud technologies
